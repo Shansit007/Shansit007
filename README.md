@@ -23,9 +23,9 @@
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/sansitsuman?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 </p>
 
@@ -34,27 +34,27 @@
 # 💻 Tech Stack
 
 ## 👨‍💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,java" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts" />
 </p>
 
 ## 🌐 Frontend Development
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
 </p>
 
 ## ⚙️ Backend Development
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
 </p>
 
 ## 🗄️ Database & Cloud
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
 </p>
 
 ## 🤖 AI/ML & Tools
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,git,github,vscode,linux" />
 </p>
 
@@ -63,8 +63,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sansitsuman&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansitsuman&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shansit007&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shansit007&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
 </p>
 
 ---
@@ -72,7 +72,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sansitsuman&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shansit007&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -80,7 +80,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sansitsuman&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Shansit007&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -88,15 +88,15 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sansitsuman&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shansit007&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
 # ⚡ Coding Profiles
 
-<p align="left">
-<a href="https://github.com/sansitsuman" target="blank">
+<p align="center">
+<a href="https://github.com/Shansit007" target="blank">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 </p>
@@ -114,7 +114,7 @@
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sansitsuman&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Shansit007&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -122,7 +122,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/sansitsuman/sansitsuman/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Shansit007/Shansit007/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
